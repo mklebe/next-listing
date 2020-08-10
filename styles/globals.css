@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --spacing-default: 8px;
+  --spacing-component: 16px;
+  --background-aside: #ccc;
+}

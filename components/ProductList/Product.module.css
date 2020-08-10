@@ -1,0 +1,13 @@
+.item {
+    box-shadow: 0 0 1px 1px #eee;
+    cursor: pointer;
+    padding: var(--spacing-default)
+}
+
+.item:hover {
+    box-shadow: 0 0 2px 2px #ccc;
+}
+
+.image {
+    max-width: 100%;
+}

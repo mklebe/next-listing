@@ -1,0 +1,9 @@
+.list {
+    display: grid;
+    gap: var(--spacing-default);
+}
+
+.headline {
+    margin: 0;
+    padding: 0;
+}

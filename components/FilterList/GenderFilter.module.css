@@ -1,0 +1,8 @@
+.root {
+    display: grid;
+    gap: var(--spacing-default);
+}
+
+.headline {
+    margin: 0;
+}
